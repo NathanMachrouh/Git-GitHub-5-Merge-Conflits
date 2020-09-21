@@ -1,3 +1,3 @@
-# Git-GitHub-5-Merge-Conflits
+# REMOTE
 
 Bonjour à toi, jeune correcteur (ou correctrice). Welcome to my GitHub ^^
